@@ -30,7 +30,7 @@ main {
     object-fit: cover;
 }
 
-.name{
+h1{
     font-family: 'Fraunces', serif;
     font-weight: 700;
 }
